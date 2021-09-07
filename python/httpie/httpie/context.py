@@ -1,4 +1,4 @@
-sdsfsf
+1abc
 import sys
 import os
 from pathlib import Path
@@ -16,6 +16,7 @@ from httpie.config import DEFAULT_CONFIG_DIR, Config, ConfigFileError
 from httpie.utils import repr_dict
 
 sdfsdfsdf
+2xyz
 class Environment:
     """
     Information about the execution context
